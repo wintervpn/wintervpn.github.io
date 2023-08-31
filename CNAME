@@ -1,1 +1,3 @@
-google.com
+if (window.location.href==="https://wintervpn.github.io") {
+    window.location.href = "https://google.com"; 
+}
